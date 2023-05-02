@@ -1,0 +1,20 @@
+* {
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+
+header {
+    padding: 10px;
+    border-bottom: 1px solid seashell;
+    position: fixed;
+    display: inline-flex;
+    justify-content: space-between;
+    width: auto;
+}
+
+header li {
+    display: inline;
+}
